@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootAuthorizationBasic
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jsena
+Implementation-Vendor-Id: SpringBootAuthorizationBasic
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootAuthorizationBasic
+Created-By: Maven Integration for Eclipse
+
